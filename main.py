@@ -9,7 +9,7 @@ from pygame import mixer
 def addsongs():
     # to open a file
     temp_song = filedialog.askopenfilenames(initialdir="Music/", title="Choose a song",
-                                            filetypes=(("mp3 Files", "*.mp3"),))
+                                            filetypes=(("all Files", "*.*"), ("mp3 Files", "*.mp3"), ("wav Files", "*.wav")))
     # loop through every item in the list to insert in the listbox
 
     for s in temp_song:
