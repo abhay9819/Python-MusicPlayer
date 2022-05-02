@@ -4,7 +4,7 @@
 This app is made by,
 >Madhur Shinde
 
->Abhay Sharma
+>[Abhay Sharma](https://github.com/abhay9819)
 
 >[Abhishek Tiwari](https://github.com/itssabhishek)
 
